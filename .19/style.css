@@ -8,7 +8,7 @@ body {
 }
 .main {
   flex: 1;
-}
+} 
 
 h1 {
   font-size: 5rem;
@@ -25,5 +25,16 @@ footer {
 
 .cards{
   display: flex;
+}
+span{
+  color: midnightblue;
+}
+
+.card{  
+  display: flex;
+}
+
+.texto{
+  margin-left: 20px;
 }
 
